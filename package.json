@@ -1,0 +1,22 @@
+{
+  "name": "cm-chessboard-sounds",
+  "version": "1.0.0",
+  "description": "Sounds Externsion for the cm-chessboard",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "es6",
+    "cm-chessboard",
+    "js"
+  ],
+  "author": "shaack.com",
+  "license": "MIT",
+  "dependencies": {
+    "cm-chessboard": "^7.8.4"
+  },
+  "devDependencies": {
+    "extreme-minimal-css": "^1.1.0"
+  }
+}
